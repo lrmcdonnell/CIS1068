@@ -1,2 +1,3 @@
 # CIS1068
-Program Design and Abstraction - Fall 2023
+```Computer & Information Science```
+Program Design and Abstraction (Fall 2023)
